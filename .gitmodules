@@ -1,0 +1,3 @@
+[submodule "containerApp/organizations"]
+	path = containerApp/organizations
+	url = https://github.com/HariSweetQ/organizations.git
